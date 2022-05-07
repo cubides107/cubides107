@@ -7,7 +7,7 @@ Mi nombre es Julian Cubides. Desarrollador Full-Stack de Colombia :earth_america
 ### Tecnologias
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me <img src="https://github.com/cubides107/cubides107/blob/main/Hands.gif" height="32px">
 
 <!--
 **cubides107/cubides107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
