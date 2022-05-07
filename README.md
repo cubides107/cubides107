@@ -16,7 +16,7 @@ Hi, My name is Julian, I'm a Full-Stack developer from Colombia, I'm studen Syst
 
 ### <h2 />Connect with me <img src="https://github.com/cubides107/cubides107/blob/main/Hands.gif" height="32px">
 
-<a href="https://twitter.com/iampavangandhi">
+<a href="https://www.instagram.com/juliancubides7/">
  <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
