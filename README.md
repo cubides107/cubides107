@@ -1,12 +1,12 @@
 
 
 
-### <h1 align="center">Hello World, I'm Julian Cubides</h1> 
+### <h1>Hello World, I'm Julian Cubides</h1> 
 
 Full-Stack developer | :mortar_board: Systems and Computer Engineering.  (Loading...) 
 
 <h2>About me</h2>
- <p align ="center">:spades: Programming | :hearts: VideoGames | :soccer: Football | :mountain_bicyclist: Cycling | ...... :exclamation:</p>
+ <p >:spades: Programming | :hearts: VideoGames | :soccer: Football | :mountain_bicyclist: Cycling | ...... :exclamation:</p>
 
 - :earth_americas: I'm from Tunja-Colombia
 - :mortar_board: Studying System and Computer Engineering at UPTC
