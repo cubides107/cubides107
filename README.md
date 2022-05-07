@@ -44,3 +44,8 @@ Full-Stack developer | :mortar_board: Systems and Computer Engineering.  (Loadin
 <a href="mailto:cristhiancubides84@gmail.com">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br></br>
+
+![Made with love in Colombia](https://madewithlove.now.sh/co?heart=true&template=for-the-badge)
+<hr>
