@@ -10,8 +10,8 @@ Full-Stack developer | :mortar_board: Systems and Computer Engineering.  (Loadin
 
 - :earth_americas: I'm from Tunja-Colombia
 - :mortar_board: Studying System and Computer Engineering at UPTC
+- :briefcase: I'm a freelancer programmer
 - :computer: I'm Learnig About Software Architecture
-
 
 <h2>Teck Stack</h2>
 
@@ -31,9 +31,14 @@ Full-Stack developer | :mortar_board: Systems and Computer Engineering.  (Loadin
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+	![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### <h2 />Connect with me <img src="https://github.com/cubides107/cubides107/blob/main/Hands.gif" height="32px">
 
